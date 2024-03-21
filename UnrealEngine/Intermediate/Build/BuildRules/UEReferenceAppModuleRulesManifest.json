@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"/Users/heston/repos/jsbsim/UnrealEngine/Source/UEReferenceApp/UEReferenceApp.Build.cs",
+		"/Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/JSBSimFlightDynamicsModel.Build.cs",
+		"/Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModelEditor/JSBSimFlightDynamicsModelEditor.Build.cs",
+		"/Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim.Build.cs",
+		"/Users/heston/repos/jsbsim/UnrealEngine/Source/UEReferenceApp.Target.cs",
+		"/Users/heston/repos/jsbsim/UnrealEngine/Source/UEReferenceAppEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
