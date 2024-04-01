@@ -11,6 +11,7 @@
     <None Include="..\..\Source\UEReferenceAppEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <None Include="..\..\CleanProject.bat" />
     <None Include="..\..\CleanProject.sh" />
     <None Include="..\..\LICENSE.txt" />
@@ -1073,6 +1074,12 @@
     <Filter Include="Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\aircraft\Submarine_Scout\Systems">
       <UniqueIdentifier>{192FDC03-8ACC-3992-BA32-07C503CDCEED}</UniqueIdentifier>
     </Filter>
+    <None Include="..\..\Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\aircraft\Submarine_Scout\Systems\air-and-gas-control.xml">
+      <Filter>Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\aircraft\Submarine_Scout\Systems</Filter>
+    </None>
+    <None Include="..\..\Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\aircraft\Submarine_Scout\Systems\gerris_aero.xml">
+      <Filter>Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\aircraft\Submarine_Scout\Systems</Filter>
+    </None>
     <None Include="..\..\Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\aircraft\Submarine_Scout\Systems\Submarine_Scout_crew_ap.xml">
       <Filter>Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\aircraft\Submarine_Scout\Systems</Filter>
     </None>
@@ -1544,6 +1551,12 @@
     <None Include="..\..\Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\systems\hook.xml">
       <Filter>Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\systems</Filter>
     </None>
+    <None Include="..\..\Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\systems\hydrodynamic-planing-floats.xml">
+      <Filter>Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\systems</Filter>
+    </None>
+    <None Include="..\..\Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\systems\hydrodynamic-planing.xml">
+      <Filter>Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\systems</Filter>
+    </None>
     <None Include="..\..\Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\systems\hydrodynamics.xml">
       <Filter>Plugins\JSBSimFlightDynamicsModel\Resources\JSBSim\systems</Filter>
     </None>
@@ -1643,6 +1656,18 @@
     <ClInclude Include="..\..\Plugins\JSBSimFlightDynamicsModel\Source\ThirdParty\JSBSim\Include\GeographicLib\Config.h">
       <Filter>Plugins\JSBSimFlightDynamicsModel\Source\ThirdParty\JSBSim\Include\GeographicLib</Filter>
     </ClInclude>
+    <None Include="..\..\Plugins\JSBSimFlightDynamicsModel\Source\ThirdParty\JSBSim\Include\GeographicLib\Constants.hpp">
+      <Filter>Plugins\JSBSimFlightDynamicsModel\Source\ThirdParty\JSBSim\Include\GeographicLib</Filter>
+    </None>
+    <None Include="..\..\Plugins\JSBSimFlightDynamicsModel\Source\ThirdParty\JSBSim\Include\GeographicLib\Geodesic.hpp">
+      <Filter>Plugins\JSBSimFlightDynamicsModel\Source\ThirdParty\JSBSim\Include\GeographicLib</Filter>
+    </None>
+    <None Include="..\..\Plugins\JSBSimFlightDynamicsModel\Source\ThirdParty\JSBSim\Include\GeographicLib\GeodesicLine.hpp">
+      <Filter>Plugins\JSBSimFlightDynamicsModel\Source\ThirdParty\JSBSim\Include\GeographicLib</Filter>
+    </None>
+    <None Include="..\..\Plugins\JSBSimFlightDynamicsModel\Source\ThirdParty\JSBSim\Include\GeographicLib\Math.hpp">
+      <Filter>Plugins\JSBSimFlightDynamicsModel\Source\ThirdParty\JSBSim\Include\GeographicLib</Filter>
+    </None>
     <Filter Include="Plugins\JSBSimFlightDynamicsModel\Source\ThirdParty\JSBSim\Include\initialization">
       <UniqueIdentifier>{DE0B0CB9-7190-3A30-8C2B-99E7EF2127EC}</UniqueIdentifier>
     </Filter>
@@ -2105,6 +2130,12 @@
     <Filter Include="Source\UEReferenceApp">
       <UniqueIdentifier>{525F99DF-3442-3238-92BA-E44EC147A936}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UEReferenceApp\MyHUD.cpp">
+      <Filter>Source\UEReferenceApp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEReferenceApp\MyHUD.h">
+      <Filter>Source\UEReferenceApp</Filter>
+    </ClInclude>
     <None Include="..\..\Source\UEReferenceApp\UEReferenceApp.Build.cs">
       <Filter>Source\UEReferenceApp</Filter>
     </None>

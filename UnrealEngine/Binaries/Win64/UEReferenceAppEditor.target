@@ -12,8 +12,8 @@
 	{
 		"MajorVersion": 5,
 		"MinorVersion": 3,
-		"PatchVersion": 1,
-		"Changelist": 28051148,
+		"PatchVersion": 2,
+		"Changelist": 29314046,
 		"CompatibleChangelist": 27405482,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
@@ -1914,6 +1914,70 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertApp/MultiUserClient/Binaries/Win64/UnrealEditor-MultiUserClient.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertApp/MultiUserClient/Binaries/Win64/UnrealEditor-MultiUserClientLibrary.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertApp/MultiUserClient/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/Binaries/Win64/UnrealEditor-Concert.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/Binaries/Win64/UnrealEditor-ConcertClient.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/Binaries/Win64/UnrealEditor-ConcertServer.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/Binaries/Win64/UnrealEditor-ConcertTransport.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Binaries/Win64/UnrealEditor-ConcertSyncClient.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncCore/Binaries/Win64/UnrealEditor-ConcertSyncCore.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncCore/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertUI/ConcertClientSharedSlate/Binaries/Win64/UnrealEditor-ConcertClientSharedSlate.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertUI/ConcertClientSharedSlate/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertUI/ConcertSharedSlate/Binaries/Win64/UnrealEditor-ConcertSharedSlate.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertUI/ConcertSharedSlate/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Developer/DumpGPUServices/Binaries/Win64/UnrealEditor-DumpGPUServices.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2055,6 +2119,14 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Editor/BlueprintHeaderView/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Editor/BlueprintMaterialTextureNodes/Binaries/Win64/UnrealEditor-BlueprintMaterialTextureNodes.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Editor/BlueprintMaterialTextureNodes/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -2466,6 +2538,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Landmass/Binaries/Win64/UnrealEditor-Landmass.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Landmass/Binaries/Win64/UnrealEditor-LandmassEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Landmass/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/LocalizableMessage/Binaries/Win64/UnrealEditor-LocalizableMessage.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2554,6 +2638,14 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/RawInput/Binaries/Win64/UnrealEditor-RawInput.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/RawInput/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/SkeletalReduction/Binaries/Win64/UnrealEditor-SkeletalMeshReduction.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2595,6 +2687,18 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/ToolPresets/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Water/Binaries/Win64/UnrealEditor-Water.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Water/Binaries/Win64/UnrealEditor-WaterEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Water/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -2707,6 +2811,26 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Interchange/Runtime/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/CesiumForUnreal/Binaries/Win64/UnrealEditor-CesiumEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/CesiumForUnreal/Binaries/Win64/UnrealEditor-CesiumEditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/CesiumForUnreal/Binaries/Win64/UnrealEditor-CesiumRuntime.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/CesiumForUnreal/Binaries/Win64/UnrealEditor-CesiumRuntime.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/CesiumForUnreal/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -3403,6 +3527,14 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/TraceUtilities/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/VirtualProduction/MultiUserTakes/Binaries/Win64/UnrealEditor-ConcertTakeRecorder.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/VirtualProduction/MultiUserTakes/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -24208,6 +24340,26 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertApp/MultiUserClient/MultiUserClient.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/ConcertMain.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/ConcertSyncClient.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncCore/ConcertSyncCore.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertUI/ConcertSharedSlate/ConcertSharedSlate.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Developer/DumpGPUServices/DumpGPUServices.uplugin",
 			"Type": "UFS"
 		},
@@ -24277,6 +24429,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Editor/BlueprintHeaderView/BlueprintHeaderView.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Editor/BlueprintMaterialTextureNodes/BlueprintMaterialTextureNodes.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -24448,6 +24604,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Landmass/Landmass.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/LocalizableMessage/LocalizableMessage.uplugin",
 			"Type": "UFS"
 		},
@@ -24476,6 +24636,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/RawInput/RawInput.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/SkeletalReduction/SkeletalReduction.uplugin",
 			"Type": "UFS"
 		},
@@ -24485,6 +24649,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/ToolPresets/ToolPresets.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Water/Water.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -24505,6 +24673,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Interchange/Runtime/Interchange.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/CesiumForUnreal/CesiumForUnreal.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -24821,6 +24993,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/TraceUtilities/TraceUtilities.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/VirtualProduction/MultiUserTakes/MultiUserTakes.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -25269,6 +25445,14 @@
 		},
 		{
 			"Path": "$(ProjectDir)/Plugins/JSBSimFlightDynamicsModel/Resources/JSBSim/aircraft/Submarine_Scout/Systems/Submarine_Scout_crew_ap.xml",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/JSBSimFlightDynamicsModel/Resources/JSBSim/aircraft/Submarine_Scout/Systems/air-and-gas-control.xml",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/JSBSimFlightDynamicsModel/Resources/JSBSim/aircraft/Submarine_Scout/Systems/gerris_aero.xml",
 			"Type": "NonUFS"
 		},
 		{
@@ -26445,6 +26629,14 @@
 		},
 		{
 			"Path": "$(ProjectDir)/Plugins/JSBSimFlightDynamicsModel/Resources/JSBSim/systems/hook.xml",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/JSBSimFlightDynamicsModel/Resources/JSBSim/systems/hydrodynamic-planing-floats.xml",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/JSBSimFlightDynamicsModel/Resources/JSBSim/systems/hydrodynamic-planing.xml",
 			"Type": "NonUFS"
 		},
 		{

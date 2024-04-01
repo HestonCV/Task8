@@ -3,10 +3,10 @@
 /l 0x409
 /I "."
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
 /DIS_PROGRAM=0
 /DUE_EDITOR=1
 /DUSE_SHADER_COMPILER_WORKER_TRACE=0
@@ -69,12 +69,12 @@
 /DNDEBUG=1
 /DUE_BUILD_DEVELOPMENT=1
 /DORIGINAL_FILE_NAME="UnrealEditor-JSBSimFlightDynamicsModel.dll"
-/DBUILT_FROM_CHANGELIST=28051148
-/DBUILD_VERSION=++UE5+Release-5.3-CL-28051148
+/DBUILT_FROM_CHANGELIST=29314046
+/DBUILD_VERSION=++UE5+Release-5.3-CL-29314046
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COMPANY_NAME="Epic Games"
 /DPROJECT_COPYRIGHT_STRING="This application is provided as is, without any support"
 /DPROJECT_PRODUCT_NAME="UE Reference App for JSBSim"
 /DPROJECT_PRODUCT_IDENTIFIER=UEReferenceApp
-/fo "C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Default.rc2.res"
+/fo "D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

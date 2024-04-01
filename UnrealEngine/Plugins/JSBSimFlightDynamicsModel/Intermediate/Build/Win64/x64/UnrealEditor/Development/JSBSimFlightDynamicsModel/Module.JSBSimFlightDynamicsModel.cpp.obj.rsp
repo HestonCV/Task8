@@ -1,11 +1,11 @@
-"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Module.JSBSimFlightDynamicsModel.cpp"
-/FI"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Intermediate\Build\Win64\x64\UEReferenceAppEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h"
-/FI"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Definitions.JSBSimFlightDynamicsModel.h"
-/Yu"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Intermediate\Build\Win64\x64\UEReferenceAppEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h"
-/Fp"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Intermediate\Build\Win64\x64\UEReferenceAppEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Module.JSBSimFlightDynamicsModel.cpp.obj"
-/sourceDependencies "C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Module.JSBSimFlightDynamicsModel.cpp.dep.json"
-@"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\JSBSimFlightDynamicsModel.Shared.rsp"
+"D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Module.JSBSimFlightDynamicsModel.cpp"
+/FI"D:\USRA_Task8\Projects\Task8\UnrealEngine\Intermediate\Build\Win64\x64\UEReferenceAppEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h"
+/FI"D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Definitions.JSBSimFlightDynamicsModel.h"
+/Yu"D:\USRA_Task8\Projects\Task8\UnrealEngine\Intermediate\Build\Win64\x64\UEReferenceAppEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h"
+/Fp"D:\USRA_Task8\Projects\Task8\UnrealEngine\Intermediate\Build\Win64\x64\UEReferenceAppEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.pch"
+/Fo"D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Module.JSBSimFlightDynamicsModel.cpp.obj"
+/sourceDependencies "D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Module.JSBSimFlightDynamicsModel.cpp.dep.json"
+@"D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\JSBSimFlightDynamicsModel.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

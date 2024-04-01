@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UEReferenceApp.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Intermediate\Build\Win64\x64\UEReferenceAppEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.obj"
+"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEReferenceApp\UEReferenceApp.init.gen.cpp.obj"
+"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEReferenceApp\UEReferenceAppGameModeBase.gen.cpp.obj"
+"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEReferenceApp\UEReferenceApp.cpp.obj"
+"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEReferenceApp\UEReferenceAppGameModeBase.cpp.obj"
+"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEReferenceApp\Default.rc2.res"
+/OUT:"C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEReferenceApp\UnrealEditor-UEReferenceApp.lib"

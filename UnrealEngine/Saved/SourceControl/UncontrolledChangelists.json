@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/USRA_Task8/Projects/Task8/UnrealEngine/Content/BP_MyHUD.uasset",
+				"D:/USRA_Task8/Projects/Task8/UnrealEngine/Content/Blueprints/BP_Airliner.uasset",
+				"D:/USRA_Task8/Projects/Task8/UnrealEngine/Content/Blueprints/BP_JSBSimGameMode.uasset",
 				"/Users/heston/repos/jsbsim/UnrealEngine/Content/Levels/StartupLevel.umap",
 				"/Users/heston/repos/jsbsim/UnrealEngine/Content/Custom/BP_SimManager.uasset",
 				"/Users/heston/repos/jsbsim/UnrealEngine/Content/Custom/BP_UI_Interface.uasset",

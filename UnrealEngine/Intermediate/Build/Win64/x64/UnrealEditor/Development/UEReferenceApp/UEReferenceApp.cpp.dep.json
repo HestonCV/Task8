@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\awl139\\downloads\\jsbsim-master\\jsbsim-master\\unrealengine\\source\\uereferenceapp\\uereferenceapp.cpp",
+        "Source": "d:\\usra_task8\\projects\\task8\\unrealengine\\source\\uereferenceapp\\uereferenceapp.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\awl139\\downloads\\jsbsim-master\\jsbsim-master\\unrealengine\\intermediate\\build\\win64\\x64\\uereferenceappeditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_0.h.pch",
+        "PCH": "d:\\usra_task8\\projects\\task8\\unrealengine\\intermediate\\build\\win64\\x64\\uereferenceappeditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\users\\awl139\\downloads\\jsbsim-master\\jsbsim-master\\unrealengine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uereferenceapp\\definitions.uereferenceapp.h",
-            "c:\\users\\awl139\\downloads\\jsbsim-master\\jsbsim-master\\unrealengine\\source\\uereferenceapp\\uereferenceapp.h"
+            "d:\\usra_task8\\projects\\task8\\unrealengine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uereferenceapp\\definitions.uereferenceapp.h",
+            "d:\\usra_task8\\projects\\task8\\unrealengine\\source\\uereferenceapp\\uereferenceapp.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

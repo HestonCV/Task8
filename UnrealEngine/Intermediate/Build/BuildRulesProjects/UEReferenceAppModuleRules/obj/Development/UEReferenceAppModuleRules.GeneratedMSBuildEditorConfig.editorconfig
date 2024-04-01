@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UEReferenceAppModuleRules
-build_property.ProjectDir = C:\Users\awl139\Downloads\jsbsim-master\jsbsim-master\UnrealEngine\Intermediate\Build\BuildRulesProjects\UEReferenceAppModuleRules\
+build_property.ProjectDir = D:\USRA_Task8\Projects\Task8\UnrealEngine\Intermediate\Build\BuildRulesProjects\UEReferenceAppModuleRules\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
