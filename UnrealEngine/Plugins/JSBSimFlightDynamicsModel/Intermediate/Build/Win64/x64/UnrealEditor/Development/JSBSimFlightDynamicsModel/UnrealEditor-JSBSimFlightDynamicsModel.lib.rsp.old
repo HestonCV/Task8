@@ -8,5 +8,8 @@
 /NODEFAULTLIB
 "D:\USRA_Task8\Projects\Task8\UnrealEngine\Intermediate\Build\Win64\x64\UEReferenceAppEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.obj"
 "D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Module.JSBSimFlightDynamicsModel.cpp.obj"
+"D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\FDMTypes.gen.cpp.obj"
+"D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\JSBSimFlightDynamicsModel.init.gen.cpp.obj"
+"D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\JSBSimMovementComponent.gen.cpp.obj"
 "D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\Default.rc2.res"
 /OUT:"D:\USRA_Task8\Projects\Task8\UnrealEngine\Plugins\JSBSimFlightDynamicsModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\JSBSimFlightDynamicsModel\UnrealEditor-JSBSimFlightDynamicsModel.lib"
