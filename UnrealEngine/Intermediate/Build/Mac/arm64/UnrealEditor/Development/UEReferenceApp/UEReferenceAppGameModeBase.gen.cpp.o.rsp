@@ -1,9 +1,9 @@
 -c
 -pipe
 -I"."
--I"/Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT"
--I"/Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source"
--I"/Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Public"
+-I"/Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT"
+-I"/Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source"
+-I"/Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Public"
 -I"Runtime/Core/Public"
 -I"Runtime"
 -I"Runtime/Core/Internal"
@@ -280,12 +280,12 @@
 -I"../Plugins/Runtime/GeoReferencing/Intermediate/Build/Mac/UnrealEditor/Inc/GeoReferencing/UHT"
 -I"../Plugins/Runtime/GeoReferencing/Source/GeoReferencing/Public"
 -I"../Plugins/Runtime/GeoReferencing/Source"
--I"/Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/UnrealEditor/Inc/UEReferenceApp/UHT"
--I"/Users/heston/repos/jsbsim/UnrealEngine/Source"
+-I"/Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/UnrealEditor/Inc/UEReferenceApp/UHT"
+-I"/Users/heston/repos/Task8/UnrealEngine/Source"
 -isystem"ThirdParty/mimalloc/include"
 -isystem"ThirdParty/LibTiff/Source/Mac"
 -isystem"ThirdParty/LibTiff/Source"
--isystem"/Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include"
+-isystem"/Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include"
 -Wall
 -Werror
 -Wdelete-non-virtual-dtor
@@ -336,12 +336,12 @@
 -arch arm64
 -isysroot "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
 -mmacosx-version-min=10.15
--include-pch "/Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/Engine/SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.gch"
--include "/Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UEReferenceApp/Definitions.UEReferenceApp.h"
+-include-pch "/Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/Engine/SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.gch"
+-include "/Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UEReferenceApp/Definitions.UEReferenceApp.h"
 -x objective-c++
 -std=c++17
 -fpch-validate-input-files-content
 -stdlib=libc++
-"/Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/UnrealEditor/Inc/UEReferenceApp/UHT/UEReferenceAppGameModeBase.gen.cpp"
--MD -MF"/Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UEReferenceApp/UEReferenceAppGameModeBase.gen.cpp.d"
--o "/Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UEReferenceApp/UEReferenceAppGameModeBase.gen.cpp.o"
+"/Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/UnrealEditor/Inc/UEReferenceApp/UHT/UEReferenceAppGameModeBase.gen.cpp"
+-MD -MF"/Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UEReferenceApp/UEReferenceAppGameModeBase.gen.cpp.d"
+-o "/Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UEReferenceApp/UEReferenceAppGameModeBase.gen.cpp.o"

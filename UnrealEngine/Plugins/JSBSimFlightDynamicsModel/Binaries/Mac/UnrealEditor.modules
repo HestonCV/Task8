@@ -2,7 +2,7 @@
 	"BuildId": "27405482",
 	"Modules": 
 	{
-		"JSBSimFlightDynamicsModel": "UnrealEditor-JSBSimFlightDynamicsModel.dylib",
-		"JSBSimFlightDynamicsModelEditor": "UnrealEditor-JSBSimFlightDynamicsModelEditor.dylib"
+		"JSBSimFlightDynamicsModel": "UnrealEditor-JSBSimFlightDynamicsModel-0001.dylib",
+		"JSBSimFlightDynamicsModelEditor": "UnrealEditor-JSBSimFlightDynamicsModelEditor-0001.dylib"
 	}
 }

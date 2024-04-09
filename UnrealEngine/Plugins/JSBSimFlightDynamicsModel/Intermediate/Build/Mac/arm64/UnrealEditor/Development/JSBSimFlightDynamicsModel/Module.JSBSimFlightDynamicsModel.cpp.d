@@ -1,6 +1,6 @@
-/Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/arm64/UnrealEditor/Development/JSBSimFlightDynamicsModel/Module.JSBSimFlightDynamicsModel.cpp.o: \
-  /Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/Engine/SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/Engine/SharedDefinitions.Engine.Cpp17.InclOrderUnreal5_0.h \
+/Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/arm64/UnrealEditor/Development/JSBSimFlightDynamicsModel/Module.JSBSimFlightDynamicsModel.cpp.o: \
+  /Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/Engine/SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h \
+  /Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/Engine/SharedDefinitions.Engine.Cpp17.InclOrderUnreal5_0.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/Slate/Public/SlateSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h \
@@ -3880,24 +3880,24 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/nl_types.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/arm64/UnrealEditor/Development/JSBSimFlightDynamicsModel/Module.JSBSimFlightDynamicsModel.cpp \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/arm64/UnrealEditor/Development/JSBSimFlightDynamicsModel/Definitions.JSBSimFlightDynamicsModel.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT/FDMTypes.gen.cpp \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/arm64/UnrealEditor/Development/JSBSimFlightDynamicsModel/Module.JSBSimFlightDynamicsModel.cpp \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/arm64/UnrealEditor/Development/JSBSimFlightDynamicsModel/Definitions.JSBSimFlightDynamicsModel.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT/FDMTypes.gen.cpp \
   Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Public/FDMTypes.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Public/FDMTypes.h \
   Runtime/Core/Public/CoreMinimal.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT/FDMTypes.generated.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT/FDMTypes.generated.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
   Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT/JSBSimFlightDynamicsModel.init.gen.cpp \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT/JSBSimMovementComponent.gen.cpp \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Public/JSBSimMovementComponent.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT/JSBSimFlightDynamicsModel.init.gen.cpp \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT/JSBSimMovementComponent.gen.cpp \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Public/JSBSimMovementComponent.h \
   Runtime/Engine/Classes/Components/ActorComponent.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Public/JSBSimModule.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Public/JSBSimModule.h \
   Runtime/Core/Public/Modules/ModuleInterface.h \
   Runtime/Core/Public/Modules/ModuleManager.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT/JSBSimMovementComponent.generated.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Private/JSBSimModule.cpp \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Intermediate/Build/Mac/UnrealEditor/Inc/JSBSimFlightDynamicsModel/UHT/JSBSimMovementComponent.generated.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Private/JSBSimModule.cpp \
   Runtime/Core/Public/Core.h \
   Runtime/Core/Public/Misc/MonolithicHeaderBoilerplate.h \
   Runtime/Core/Public/CoreTypes.h \
@@ -4186,12 +4186,12 @@
   Runtime/Core/Public/Misc/Attribute.h \
   Runtime/Core/Public/Misc/Optional.h \
   Runtime/Core/Public/Misc/EnumRange.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Private/JSBSimMovementComponent.cpp \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/FGFDMExec.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGPropagate.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGModel.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGModelFunctions.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/FGJSBBase.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Private/JSBSimMovementComponent.cpp \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/FGFDMExec.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGPropagate.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGModel.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGModelFunctions.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/FGJSBBase.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/random \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/bernoulli_distribution.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_real_distribution.h \
@@ -4240,53 +4240,53 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/seed_seq.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/student_t_distribution.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/weibull_distribution.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/JSBSim_API.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/string_utilities.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/FGPropertyReader.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/JSBSim_API.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/string_utilities.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/FGPropertyReader.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/map \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tree \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/simgear/props/props.hxx \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/simgear/props/props.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/simgear/compiler.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/simgear/structure/SGReferenced.hxx \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/simgear/structure/SGSharedPtr.hxx \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/FGPropertyManager.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/simgear/compiler.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/simgear/structure/SGReferenced.hxx \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/simgear/structure/SGSharedPtr.hxx \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/FGPropertyManager.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/list \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/simgear/misc/sg_path.hxx \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGLocation.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGColumnVector3.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGMatrix33.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGQuaternion.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGOutput.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/FGOutputType.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGTemplateFunc.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGFunction.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGParameter.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGPropertyValue.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/FGXMLElement.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGFCS.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGLGear.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGForce.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGMassBalance.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/LagrangeMultiplier.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGGroundReactions.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGSurface.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGPropulsion.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGEngine.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/atmosphere/FGWinds.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGAerodynamics.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGAircraft.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGAtmosphere.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGAuxiliary.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGThruster.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGPiston.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGTable.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGTurbine.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGTurboProp.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGTank.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/initialization/FGInitialCondition.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/initialization/FGTrim.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/initialization/FGTrimAxis.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/simgear/misc/sg_path.hxx \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGLocation.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGColumnVector3.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGMatrix33.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGQuaternion.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGOutput.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/FGOutputType.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGTemplateFunc.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGFunction.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGParameter.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGPropertyValue.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/FGXMLElement.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGFCS.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGLGear.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGForce.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGMassBalance.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/LagrangeMultiplier.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGGroundReactions.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGSurface.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGPropulsion.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGEngine.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/atmosphere/FGWinds.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGAerodynamics.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGAircraft.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGAtmosphere.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGAuxiliary.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGThruster.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGPiston.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/math/FGTable.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGTurbine.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGTurboProp.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/propulsion/FGTank.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/initialization/FGInitialCondition.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/initialization/FGTrim.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/initialization/FGTrimAxis.h \
   Runtime/Projects/Public/Interfaces/IPluginManager.h \
   Runtime/Projects/Public/PluginDescriptor.h \
   Runtime/Projects/Public/CustomBuildSteps.h \
@@ -4297,9 +4297,9 @@
   Runtime/Projects/Public/PluginReferenceDescriptor.h \
   Runtime/Projects/Public/VerseScope.h \
   Runtime/Core/Public/Containers/VersePathFwd.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Public/UEGroundCallback.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGInertial.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/FGGroundCallback.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Public/UEGroundCallback.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/models/FGInertial.h \
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/ThirdParty/JSBSim/Include/input_output/FGGroundCallback.h \
   Runtime/Engine/Public/DrawDebugHelpers.h \
   ../Plugins/Runtime/GeoReferencing/Source/GeoReferencing/Public/GeoReferencingSystem.h \
   Runtime/Engine/Classes/GameFramework/Info.h \
@@ -4314,4 +4314,4 @@
   ../Plugins/Runtime/GeoReferencing/Source/GeoReferencing/Public/Ellipsoid.h \
   ../Plugins/Runtime/GeoReferencing/Intermediate/Build/Mac/UnrealEditor/Inc/GeoReferencing/UHT/Ellipsoid.generated.h \
   ../Plugins/Runtime/GeoReferencing/Intermediate/Build/Mac/UnrealEditor/Inc/GeoReferencing/UHT/GeoReferencingSystem.generated.h \
-  /Users/heston/repos/jsbsim/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Private/UEGroundCallback.cpp
+  /Users/heston/repos/Task8/UnrealEngine/Plugins/JSBSimFlightDynamicsModel/Source/JSBSimFlightDynamicsModel/Private/UEGroundCallback.cpp

@@ -310,12 +310,12 @@
 -arch arm64
 -isysroot "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
 -mmacosx-version-min=10.15
--include-pch "/Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/Engine/SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.gch"
+-include-pch "/Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/Engine/SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.gch"
 -x objective-c++-header
 -std=c++17
 -fpch-validate-input-files-content
 -stdlib=libc++
 -fpch-instantiate-templates
-"/Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_0.h"
--MD -MF"/Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_0.h.d"
--o "/Users/heston/repos/jsbsim/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_0.h.gch"
+"/Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_0.h"
+-MD -MF"/Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_0.h.d"
+-o "/Users/heston/repos/Task8/UnrealEngine/Intermediate/Build/Mac/arm64/UEReferenceAppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_0.h.gch"
