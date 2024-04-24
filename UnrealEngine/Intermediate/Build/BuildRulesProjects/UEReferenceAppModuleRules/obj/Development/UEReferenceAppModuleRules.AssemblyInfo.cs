@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UEReferenceAppModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbbad7fd788ff5f0c146fe6cdfcc876f76ff52d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3e9109a81647d61c84e46a4f451e4506cfc7878")]
 [assembly: System.Reflection.AssemblyProductAttribute("UEReferenceAppModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UEReferenceAppModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
